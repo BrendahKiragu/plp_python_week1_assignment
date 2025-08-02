@@ -23,12 +23,12 @@ A beginner-friendly command-line calculator built with Python. This program allo
    python3 --version
    ```
 
-   If not installed, head over to this (download python)[https://www.python.org/downloads/] to download the latest version.
+   If not installed, head over to [download python](https://www.python.org/downloads/) to get the latest version.
 
 2. Clone or download this repository to your local machine.
 
    ```bash
-   git clone
+   git clone https://github.com/BrendahKiragu/plp_python_week1_assignment.git
    ```
 
 3. Navigate to the project folder in your terminal:
@@ -39,5 +39,6 @@ A beginner-friendly command-line calculator built with Python. This program allo
 
 4. Run the Script
    ```bash
-   python3 scrpt.py
+   python3 script.py
    ```
+
